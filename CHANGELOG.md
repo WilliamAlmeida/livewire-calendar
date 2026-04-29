@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Laravel 13 support
+- Orchestra Testbench 11 support for Laravel 13 package testing
+
+### Compatibility
+- **Laravel**: 6 - 13
+
 ## [4.1.0] - 2025-01-24
 
 ### Added

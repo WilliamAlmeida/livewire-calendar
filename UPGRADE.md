@@ -13,7 +13,7 @@ Version 4.1.0 adds Livewire 4 support with **full backward compatibility** for L
 ### What's New
 - Livewire 4 support
 - PHP 8.4 support
-- Continued support for Laravel 6-12
+- Continued support for Laravel 6-13
 
 ### No Breaking Changes
 There are **no breaking changes** when upgrading from 3.x to 4.x. The package automatically detects your Livewire version and adapts accordingly.
@@ -127,6 +127,7 @@ Not sure which version to use? Here's a quick guide:
 
 | Your Stack | Recommended Version |
 |-----------|---------------------|
+| Livewire 4, Laravel 13, PHP 8.3+ | `^4.1` |
 | Livewire 4, Laravel 12, PHP 8.4 | `^4.1` |
 | Livewire 3, Laravel 11, PHP 8.3 | `^4.1` or `^3.2` |
 | Livewire 2, Laravel 10, PHP 8.2 | `^4.1`, `^3.2`, or `^2.2` |
